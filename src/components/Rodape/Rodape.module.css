@@ -1,0 +1,20 @@
+.rodape {
+  display: flex;
+  justify-content: center;
+  background-color: var(--preto);
+}
+
+.rodape p {
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--branco);
+}
+
+.rodape a {
+  color: var(--cinzaescuro);
+  text-decoration: none;
+}
+
+.rodape a:hover {
+  text-decoration: underline;
+}
